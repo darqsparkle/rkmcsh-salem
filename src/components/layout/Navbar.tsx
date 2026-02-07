@@ -26,7 +26,7 @@ const Navbar = () => {
               <span className="font-display text-primary-foreground font-bold text-lg">RK</span>
             </div>
             <div className="hidden sm:block">
-              <p className="font-display text-lg font-semibold text-foreground leading-tight">RK MCH</p>
+              <p className="font-display text-lg font-semibold text-foreground leading-tight">RKMCSH</p>
               <p className="text-xs text-muted-foreground">Multispeciality Hospital</p>
             </div>
           </Link>
